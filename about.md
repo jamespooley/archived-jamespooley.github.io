@@ -4,6 +4,8 @@ data-related problems, projects, and products with a strong econometric flavor. 
 Away from the computer, I saw [Aphex Twin's 2019 NYC show](https://www.artforum.com/music/sasha-frere-jones-on-aphex-twin-s-show-at-avant-gardener-79488), (was in a crowd
 that) got yelled at by Mark Leckey while sitting under
 under the
-[Bridge@Eastham Rake](https://www.youtube.com/watch?v=ZZ-BhuuCIUE), survived the 2017 Sunn O))) show at Knockdown Center, and can
+[Bridge@Eastham Rake](https://www.youtube.com/watch?v=ZZ-BhuuCIUE)
+for failing to bring a level of noise sufficient to perform
+an exorcism, survived the 2017 Sunn O))) show at Knockdown Center, and can
 be seen dancing (poorly) in close proximity to
 Four Tet in [this](https://www.youtube.com/watch?v=yWstd3jDZIs) video.
