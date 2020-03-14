@@ -1,5 +1,5 @@
-Howdy, there! I'm James Pooley, a data scientist and manager at [360i](https://360i.com/capabilities/analytics/) in NYC. I work on a variety of
-data-related problems, projects, and products with a strong econometric flavor.
+Howdy, there! I'm James Pooley, lead data scientist and manager at [360i](https://360i.com/capabilities/analytics/) in NYC. I work on a variety of
+data-related problems, projects, and products with a strong econometric flavor. I like latent variables, stochastic processes, Python, R, and functional programming.
 
 When not data sciencing in Python and R, I saw Aphex Twin's 2019 NYC show, survived the 2017 Sunn O))) show at Knockdown Center, and can
 be seen dancing (poorly) in close proximity to
