@@ -2,7 +2,8 @@ Howdy, there! I'm James Pooley, lead data scientist and manager at [360i](https:
 data-related problems, projects, and products with a strong econometric flavor. I like person-level data, latent variables, stochastic processes, Python, R, and functional programming.
 
 Away from the computer, I saw [Aphex Twin's 2019 NYC show](https://www.artforum.com/music/sasha-frere-jones-on-aphex-twin-s-show-at-avant-gardener-79488), (was in a crowd
-that) got yelled at by Mark Leckey, survived
-the 2017 Sunn O))) show at Knockdown Center, and can
+that) got yelled at by Mark Leckey while sitting under
+under the
+[Bridge@Eastham Rake](https://www.youtube.com/watch?v=ZZ-BhuuCIUE), survived the 2017 Sunn O))) show at Knockdown Center, and can
 be seen dancing (poorly) in close proximity to
 Four Tet in [this](https://www.youtube.com/watch?v=yWstd3jDZIs) video.
