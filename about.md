@@ -1,4 +1,5 @@
-Howdy, there! I'm `James Pooley`, lead data scientist and manager at [360i](https://360i.com/capabilities/analytics/) in NYC. I work on a variety of
+Howdy, there! I'm <span class="text-warning">James Pooley</span>
+lead data scientist and manager at [360i](https://360i.com/capabilities/analytics/) in NYC. I work on a variety of
 data-related problems, projects, and products with a strong econometric flavor. I like person-level data, latent variables, Box's loop, stochastic processes, Python, R, and functional programming. My chief skill is competence without comprehension,
 but I constantly work on improving the latter without losing sight of the former. [My goal is to keep
 homeostasis](https://www.youtube.com/watch?v=8X1QkseVjIY&t).
