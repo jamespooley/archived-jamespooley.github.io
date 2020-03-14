@@ -8,7 +8,7 @@ that) got yelled at by Mark Leckey while sitting under
 under the
 [Bridge@Eastham Rake](https://www.youtube.com/watch?v=ZZ-BhuuCIUE)
 for failing to bring a level of noise sufficient to perform
-an exorcism, survived the 2017 [Sunn O)))](https://www.youtube.com/watch?v=jyT4kJwn8G8) show
+an exorcism, survived [Sunn O)))](https://www.youtube.com/watch?v=jyT4kJwn8G8)
 at Knockdown Center, and can
 be seen dancing (poorly) in close proximity to Four Tet in
 [this](https://www.youtube.com/watch?v=yWstd3jDZIs) video.
