@@ -4,7 +4,8 @@ data-related problems, projects, and products with a strong econometric flavor. 
 but I constantly work on improving the latter without losing sight of the former. [My goal is to keep
 homeostasis](https://www.youtube.com/watch?v=8X1QkseVjIY&t).
 
-Away from the computer, I saw [Aphex Twin's 2019 NYC show](https://www.artforum.com/music/sasha-frere-jones-on-aphex-twin-s-show-at-avant-gardener-79488), (was in a crowd
+Away from the computer, I read horror, science, fantasy, and weird fiction.
+I saw [Aphex Twin's 2019 NYC show](https://www.artforum.com/music/sasha-frere-jones-on-aphex-twin-s-show-at-avant-gardener-79488), (was in a crowd
 that) got yelled at by Mark Leckey while sitting under
 under the
 [Bridge@Eastham Rake](https://www.youtube.com/watch?v=ZZ-BhuuCIUE)
