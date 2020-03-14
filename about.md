@@ -2,5 +2,5 @@ Howdy, there! I'm James Pooley, a data scientist and manager at [360i](https://3
 data-related problems, projects, and products with a strong econometric flavor.
 
 I saw Aphex Twin's 2019 NYC show, survived the 2017 Sunn O))) show at
-Knockdown Center, and have missed out on seeing Fennesz twice. I'm happy
-about the first two points.
+Knockdown Center, and can be seen dancing (poorly) in close proximity to
+Four Tet in [this](https://www.youtube.com/watch?v=yWstd3jDZIs) video.
