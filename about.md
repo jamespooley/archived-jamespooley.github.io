@@ -3,7 +3,8 @@ lead data scientist and manager at [360i](https://360i.com/capabilities/analytic
 data problems, projects, and products with a strong econometric flavor. I like person-level data, latent variables, Box's loop, stochastic processes, Python, R, and functional programming. My chief skill is [competence without comprehension](https://www.theatlantic.com/technology/archive/2012/06/-a-perfect-and-beautiful-machine-what-darwins-theory-of-evolution-reveals-about-artificial-intelligence/258829/),
 but I constantly work on improving the latter without losing sight of the former.
 
-Away from the computer, I read horror, science, fantasy, and weird fiction.
+Away from the computer, I stream [NTS Radio](https://www.nts.live) and read horror,
+science, fantasy, and weird fiction.
 I saw [Aphex Twin's 2019 NYC show](https://www.artforum.com/music/sasha-frere-jones-on-aphex-twin-s-show-at-avant-gardener-79488), (was in a crowd
 that) got yelled at by Mark Leckey while sitting under
 under the
