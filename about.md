@@ -1,8 +1,7 @@
 Howdy, there! I'm <span class="text-warning">James Pooley</span>
 lead data scientist and manager at [360i](https://360i.com/capabilities/analytics/) in NYC. I work on a variety of
 data-related problems, projects, and products with a strong econometric flavor. I like person-level data, latent variables, Box's loop, stochastic processes, Python, R, and functional programming. My chief skill is [competence without comprehension](https://www.theatlantic.com/technology/archive/2012/06/-a-perfect-and-beautiful-machine-what-darwins-theory-of-evolution-reveals-about-artificial-intelligence/258829/),
-but I constantly work on improving the latter without losing sight of the former. [My goal is to keep
-homeostasis](https://www.youtube.com/watch?v=8X1QkseVjIY&t).
+but I constantly work on improving the latter without losing sight of the former.
 
 Away from the computer, I read horror, science, fantasy, and weird fiction.
 I saw [Aphex Twin's 2019 NYC show](https://www.artforum.com/music/sasha-frere-jones-on-aphex-twin-s-show-at-avant-gardener-79488), (was in a crowd
@@ -15,4 +14,5 @@ at Knockdown Center, and can
 be seen dancing (poorly) in close proximity to Four Tet in
 [this](https://www.youtube.com/watch?v=yWstd3jDZIs) video.
 
-I'd like to feel like "Everglade" sounds.
+[My goal is to keep homeostasis](https://www.youtube.com/watch?v=8X1QkseVjIY&t),
+which I hope feels like "Everglade" sounds.
