@@ -5,7 +5,8 @@ but I constantly work on improving the latter without losing sight of the former
 
 Away from the work, I stream [NTS Radio](https://www.nts.live) and read horror,
 science, fantasy, and weird fiction.
-I saw [Aphex Twin's 2019 NYC show](https://www.artforum.com/music/sasha-frere-jones-on-aphex-twin-s-show-at-avant-gardener-79488), (was in a crowd
+I enthusiastically and with zero regrets spent a decent amount of money
+to see [Aphex Twin's 2019 NYC show](https://www.artforum.com/music/sasha-frere-jones-on-aphex-twin-s-show-at-avant-gardener-79488), (was in a crowd
 that) got yelled at by Mark Leckey while sitting under
 under the
 [Bridge@Eastham Rake](https://www.youtube.com/watch?v=ZZ-BhuuCIUE)
