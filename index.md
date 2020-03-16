@@ -1,6 +1,6 @@
 ---
 layout: page
-title: James Pooley
+title: Notes
 ---
 
 <ul>
