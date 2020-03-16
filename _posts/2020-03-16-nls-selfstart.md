@@ -4,10 +4,11 @@ mathjax: true
 title: "`nls::selfStart` Functions Step-by-Step"
 ---
 
-Technical details on [`nls::selfStart()`](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/selfStart.html) functions
+This note provides a step-by-step guide to the technical details involded
+in creating  [`nls::selfStart()`](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/selfStart.html) functions.
 
 
-Let's consider the Beverton-Hold model, which has the functional form:
+As a working example, let's consider the Beverton-Hold model, which has the functional form:
 
 $$
 y = f(x) = \frac{\alpha \cdot x}{1 + \beta\cdot x}
