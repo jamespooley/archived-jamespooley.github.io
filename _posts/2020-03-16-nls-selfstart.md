@@ -1,5 +1,6 @@
 ---
 layout: post
+mathjax: true
 title: "nls::selfStart Step-by-Step"
 ---
 
