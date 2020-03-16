@@ -17,5 +17,8 @@ $$
 
 #### `match.call()`
 
+Per the official documentation, `match.call()` "returns a call in which all
+of the specified arguments are specified by their full names."
+
 The first edition of Hadley Wickham's [Advanced R](http://adv-r.had.co.nz/Expressions.html#capturing-call) shows how R can capture the current
 call using `base::match.call()`.
