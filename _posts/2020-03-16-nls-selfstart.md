@@ -3,7 +3,7 @@ layout: post
 title: "nls::selfStart Step-by-Step"
 ---
 
-Technical details on `nls::selfStart()` functions
+Technical details on [`nls::selfStart()`](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/selfStart.html) functions
 
 
 The official documentation gives the following example:
