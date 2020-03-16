@@ -1,7 +1,7 @@
 ---
 layout: post
 mathjax: true
-title: "nls::selfStart Step-by-Step"
+title: "`nls::selfStart` Functions Step-by-Step"
 ---
 
 Technical details on [`nls::selfStart()`](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/selfStart.html) functions
