@@ -5,7 +5,7 @@ title: "Self-Starting NLS Functions Step-by-Step"
 ---
 
 This note provides a step-by-step guide to the technical details involded
-in creating  [`nls::selfStart()`](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/selfStart.html) functions.
+in creating  `nls::selfStart()` functions.
 
 
 As a working example, let's consider the Beverton-Hold model, which has the functional form:
