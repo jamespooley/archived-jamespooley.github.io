@@ -36,10 +36,12 @@ SSlogis <- selfStart(~ Asym/(1 + exp((xmid - x)/scal)),
 ```
 
 
+
 Let's consider the Beverton-Hold model, which has the functional form:
 
+
 $$
-y = \frac{\alpha \cdot x}{1 + \beta\cdot x}
+y = f(x) = \frac{\alpha \cdot x}{1 + \beta\cdot x}
 $$
 
 
