@@ -4,7 +4,6 @@ layout: default
 <article>
 
   <header>
-    {% include mathjax.html %}
     <h1>{{ page.title | escape }}</h1>
     <p class="text-muted">
       <time datetime="{{ page.date | date_to_xmlschema }}">
@@ -22,3 +21,5 @@ layout: default
   </section>
 
 </article>
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript" ></script>
