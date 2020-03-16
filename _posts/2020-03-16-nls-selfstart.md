@@ -1,7 +1,7 @@
 ---
 layout: post
 mathjax: true
-title: "`nls::selfStart` Functions Step-by-Step"
+title: "Self-Starting NLS Functions Step-by-Step"
 ---
 
 This note provides a step-by-step guide to the technical details involded
@@ -15,7 +15,7 @@ y = f(x) = \frac{\alpha \cdot x}{1 + \beta\cdot x}
 $$
 
 
-### `match.call()`
+#### `match.call()`
 
 The first edition of Hadley Wickham's [Advanced R](http://adv-r.had.co.nz/Expressions.html#capturing-call) shows how R can capture the current
 call using `base::match.call()`.
