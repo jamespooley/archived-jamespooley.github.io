@@ -22,7 +22,7 @@ beverton_holt <- function(x, alpha, beta) {
 ```
 
 
-![Simulated Beverton-Holt data](/assets/observed-data.png)
+<img src="/assets/observed-data.png" width="350" alt="Simulated Beverton-Holt data">
 
 
 #### `match.call()`
