@@ -22,6 +22,9 @@ beverton_holt <- function(x, alpha, beta) {
 {% endhighlight %}
 
 
+![](assets/observed-data.png)
+
+
 #### `match.call()`
 
 Per the official documentation, `match.call()` "returns a call in which all
