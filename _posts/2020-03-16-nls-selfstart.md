@@ -15,11 +15,11 @@ y = f(x) = \frac{\alpha \cdot x}{1 + \beta\cdot x}
 $$
 
 
-{% highlight r %}
+```r
 beverton_holt <- function(x, alpha, beta) {
   (alpha * x) / (1 + beta * x)
 }
-{% endhighlight %}
+```
 
 
 ![Simulated Beverton-Holt data](/assets/observed-data.png)
