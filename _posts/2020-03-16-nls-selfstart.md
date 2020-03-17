@@ -8,6 +8,13 @@ This note provides a step-by-step guide to the technical details involded
 in creating  `nls::selfStart()` functions.
 
 
+#### Setting the Stage
+
+When fitting nonlinear regression models via `stats::nls()` in R, you must provide
+starting values by binding a vector of initial guesses to this function's
+`start` argument.
+
+
 As a working example, let's consider the Beverton-Hold model, which has the functional form:
 
 $$
