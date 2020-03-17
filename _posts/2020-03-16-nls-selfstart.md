@@ -15,6 +15,13 @@ y = f(x) = \frac{\alpha \cdot x}{1 + \beta\cdot x}
 $$
 
 
+{% highlight r %}
+beverton_holt <- function(x, alpha, beta) {
+  (alpha * x) / (1 + beta * x)
+}
+{% endhighlight %}
+
+
 #### `match.call()`
 
 Per the official documentation, `match.call()` "returns a call in which all
