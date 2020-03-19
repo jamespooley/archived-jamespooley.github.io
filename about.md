@@ -1,3 +1,8 @@
+<blockquote class="blockquote text-right">
+  <p class="mb-0">Life is full of strange absurdities, which, strangely enough, do not even need to appear plausible, since they are true.</p>
+  <footer class="blockquote-footer">Luigi Pirandello<cite title="Source Title">Quoted in <em>Fully Automated Luxury Communism</em></cite></footer>
+</blockquote>
+
 Howdy, there! I'm <span class="text-warning">James Pooley</span>
 lead data scientist and manager at the digital marketing agency
 [360i](https://360i.com/capabilities/analytics/)
