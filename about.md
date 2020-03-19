@@ -3,8 +3,16 @@ permalink: /about/
 ---
 
 Howdy, there! I'm <span class="text-warning">James Pooley</span>
-lead data scientist and manager at [360i](https://360i.com/capabilities/analytics/) in NYC. I work on a variety of
-data problems, projects, and products with a strong econometric flavor. I like person-level data, latent variables, [Box's loop](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf), stochastic processes, Python, R, and functional programming. My chief skill is [competence without comprehension](https://www.theatlantic.com/technology/archive/2012/06/-a-perfect-and-beautiful-machine-what-darwins-theory-of-evolution-reveals-about-artificial-intelligence/258829/),
+lead data scientist and manager at the digital marketing agency
+[360i](https://360i.com/capabilities/analytics/)
+in NYC. I work on a variety of data problems, projects, and productionized products
+with a strong econometric and operations research flavor and a bias towards
+facilitating  business decision making.
+
+I like person-level data, latent variables,
+[Box's loop](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf),
+stochastic processes and applied probability, Python, R, and functional programming.
+My chief skill is [competence without comprehension](https://www.theatlantic.com/technology/archive/2012/06/-a-perfect-and-beautiful-machine-what-darwins-theory-of-evolution-reveals-about-artificial-intelligence/258829/),
 but I constantly work on improving the latter without losing sight of the former.
 
 Away from the work, I stream [NTS Radio](https://www.nts.live) and read horror,
@@ -14,12 +22,10 @@ _voce veritas_ voices, and  rhythm typically trumps everything for me.
 I enthusiastically and with zero regrets spent a decent amount of money
 to see [Aphex Twin's 2019 NYC show](https://www.artforum.com/music/sasha-frere-jones-on-aphex-twin-s-show-at-avant-gardener-79488), (was in a crowd
 that) got yelled at by Mark Leckey while sitting under
-under the
-[Bridge@Eastham Rake](https://www.youtube.com/watch?v=ZZ-BhuuCIUE)
+under the [Bridge@Eastham Rake](https://www.youtube.com/watch?v=ZZ-BhuuCIUE)
 for failing to bring a level of noise sufficient to perform
 an exorcism, survived [Sunn O)))](https://www.youtube.com/watch?v=jyT4kJwn8G8)
-at Knockdown Center, and can
-be seen dancing (poorly) in close proximity to Four Tet in
+at Knockdown Center, and can be seen dancing (poorly) in close proximity to Four Tet in
 [this](https://www.youtube.com/watch?v=yWstd3jDZIs) video.
 
 [My goal is to keep homeostasis](https://www.youtube.com/watch?v=8X1QkseVjIY&t),
