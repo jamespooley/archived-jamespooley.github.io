@@ -11,7 +11,7 @@ facilitating  business decision making.
 
 I like person-level data, latent variables,
 [Box's loop](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf),
-stochastic processes and applied probability, Python, R, and functional programming.
+stochastic processes and applied probability, Python, R, functional programming, and Vim.
 My chief skill is [competence without comprehension](https://www.theatlantic.com/technology/archive/2012/06/-a-perfect-and-beautiful-machine-what-darwins-theory-of-evolution-reveals-about-artificial-intelligence/258829/),
 but I constantly work on improving the latter without losing sight of the former.
 
