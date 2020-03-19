@@ -1,7 +1,3 @@
----
-permalink: /about/
----
-
 Howdy, there! I'm <span class="text-warning">James Pooley</span>
 lead data scientist and manager at the digital marketing agency
 [360i](https://360i.com/capabilities/analytics/)
