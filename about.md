@@ -25,7 +25,9 @@ that) got yelled at by Mark Leckey while sitting under
 under the [Bridge@Eastham Rake](https://www.youtube.com/watch?v=ZZ-BhuuCIUE)
 for failing to bring a level of noise sufficient to perform
 an exorcism, survived [Sunn O)))](https://www.youtube.com/watch?v=jyT4kJwn8G8)
-at Knockdown Center, and can be seen dancing (poorly) in close proximity to Four Tet in
+at Knockdown Center, basked in the brilliant light and oceans of sound produced by Sunn O)))
+at [Brooklyn Steel](https://www.youtube.com/watch?v=uCl1_fQy5Z8), and can be seen dancing
+(poorly) in close proximity to Four Tet in
 [this](https://www.youtube.com/watch?v=yWstd3jDZIs) video.
 
 [My goal is to keep homeostasis](https://www.youtube.com/watch?v=8X1QkseVjIY&t),
