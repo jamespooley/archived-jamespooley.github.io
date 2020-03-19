@@ -1,3 +1,7 @@
+---
+permalink: /about/
+---
+
 Howdy, there! I'm <span class="text-warning">James Pooley</span>
 lead data scientist and manager at [360i](https://360i.com/capabilities/analytics/) in NYC. I work on a variety of
 data problems, projects, and products with a strong econometric flavor. I like person-level data, latent variables, [Box's loop](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf), stochastic processes, Python, R, and functional programming. My chief skill is [competence without comprehension](https://www.theatlantic.com/technology/archive/2012/06/-a-perfect-and-beautiful-machine-what-darwins-theory-of-evolution-reveals-about-artificial-intelligence/258829/),
