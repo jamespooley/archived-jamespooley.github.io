@@ -1,8 +1,8 @@
-<blockquote class="blockquote text-right">
-  <p class="mb-0">Life is full of strange absurdities, which, strangely enough, do not even need to appear plausible, since they are true.</p>
-  <footer class="blockquote-footer">Luigi Pirandello,
-quotation found in <a href="https://www.versobooks.com/books/2757-fully-automated-luxury-communism"><cite title="Source Title">Fully Automated Luxury Communism: A Manifesto</cite></a></footer>
-</blockquote>
+<!-- <blockquote class="blockquote text-right"> -->
+<!--   <p class="mb-0">Life is full of strange absurdities, which, strangely enough, do not even need to appear plausible, since they are true.</p> -->
+<!--   <footer class="blockquote-footer">Luigi Pirandello, -->
+<!-- quotation found in <a href="https://www.versobooks.com/books/2757-fully-automated-luxury-communism"><cite title="Source Title">Fully Automated Luxury Communism: A Manifesto</cite></a></footer> -->
+<!-- </blockquote> -->
 
 Howdy, there! I'm <span class="text-warning">James Pooley</span>
 lead data scientist and manager at the digital marketing agency
