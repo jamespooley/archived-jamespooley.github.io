@@ -1,18 +1,21 @@
 <blockquote class="blockquote text-right">
   <p class="mb-0">Life is full of strange absurdities, which, strangely enough, do not even need to appear plausible, since they are true.</p>
-  <footer class="blockquote-footer">Luigi Pirandello<cite title="Source Title">Quoted in <em>Fully Automated Luxury Communism</em></cite></footer>
+  <footer class="blockquote-footer">Luigi Pirandello,
+quotation found in<a href="https://www.versobooks.com/books/2757-fully-automated-luxury-communism"><cite title="Source Title"></cite></a></footer>
 </blockquote>
 
 Howdy, there! I'm <span class="text-warning">James Pooley</span>
 lead data scientist and manager at the digital marketing agency
 [360i](https://360i.com/capabilities/analytics/)
-in NYC. I work on a variety of data problems, projects, and productionized products
+in NYC. I work on a variety of data problems, projects, and products
 with a strong econometric and operations research flavor and a bias towards
 facilitating  business decision making.
 
 I like person-level data, latent variables,
 [Box's loop](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf),
 stochastic processes and applied probability, Python, R, functional programming, and Vim.
+I'm also worried about the implications of person-level data and surveillance
+capitalism, and know much less about every topic that interests me than I wish I knew.
 My chief skill is [competence without comprehension](https://www.theatlantic.com/technology/archive/2012/06/-a-perfect-and-beautiful-machine-what-darwins-theory-of-evolution-reveals-about-artificial-intelligence/258829/),
 but I constantly work on improving the latter without losing sight of the former.
 
