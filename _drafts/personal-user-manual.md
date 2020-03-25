@@ -14,7 +14,8 @@ I've seen a similar approach taken by managers posting their own hypothetical
 
 ### What I Can't Stand
 
-* Arrogance and elitism.
+* Arrogance and elitism
+* People taking the blame for process failures
 
 ### What Makes Me Happy
 
@@ -24,7 +25,7 @@ I've seen a similar approach taken by managers posting their own hypothetical
 
 ### What Makes Stresses Me Out
 
-* At work, its unplanned work.
+* Unplanned work
 
 
 ### Some of My Favorite Quotations
