@@ -18,6 +18,9 @@ Arrogance and elitism.
 
 ### What Makes Me Happy
 
+* Music, or more specifically _sounds_, especially the ambient variety
+* Stellar cinematography (e.g., the work of Roger Deakins)
+
 
 ### What Makes Stresses Me Out
 
