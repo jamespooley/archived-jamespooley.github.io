@@ -14,7 +14,7 @@ I've seen a similar approach taken by managers posting their own hypothetical
 
 ### What I Can't Stand
 
-Arrogance and elitism.
+* Arrogance and elitism.
 
 ### What Makes Me Happy
 
@@ -24,4 +24,4 @@ Arrogance and elitism.
 
 ### What Makes Stresses Me Out
 
-At work, its unplanned work.
+* At work, its unplanned work.
