@@ -12,13 +12,13 @@ I've seen a similar approach taken by managers posting their own hypothetical
 
 ### Honest and Unfiltered Things to Know about Me
 
-### What Can't You Stand?
+### What I Can't Stand
 
 Arrogance and elitism.
 
-### What Makes You Happy?
+### What Makes Me Happy
 
 
-### What Makes You Stressed?
+### What Makes Stresses Me Out
 
 At work, its unplanned work.
