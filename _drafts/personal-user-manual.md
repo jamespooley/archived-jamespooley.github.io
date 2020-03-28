@@ -12,6 +12,12 @@ I've seen a similar approach taken by managers posting their own hypothetical
 
 ### Honest and Unfiltered Things to Know about Me
 
+
+### Quirky Things to Know about Me
+
+* I spend a good deal of my free time reading detailed user manual's
+on my favorite text editor (viz., Vim).
+
 ### What I Can't Stand
 
 * Arrogance and elitism
