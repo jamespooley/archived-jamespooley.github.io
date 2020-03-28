@@ -35,4 +35,4 @@ I've seen a similar approach taken by managers posting their own hypothetical
 
 ### What I Wish I Was
 
-* A better dancer
+* A better dancer (e.g., shuffling)
