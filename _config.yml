@@ -29,6 +29,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+gems:
+    - jekyll-font-awesome-sass
+
 # A list of the pages to display in the navigation bar
 header_pages:
 
