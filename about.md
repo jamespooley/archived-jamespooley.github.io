@@ -13,7 +13,7 @@ facilitating  business decision making.
 
 I like person-level data, latent variables,
 [Box's loop](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf),
-stochastic processes and applied probability, psychometrics, Python, R, [functional programming](https://dcl-prog.stanford.edu/), the Unix philosophy, and Vim.
+stochastic processes and applied probability, psychometrics, Python, R, [functional programming](https://www.youtube.com/watch?v=bzUmK0Y07ck), the Unix philosophy, and Vim.
 I'm also worried about the implications of person-level data and surveillance
 capitalism, and know much less about every topic that interests me than I wish I knew.
 My chief skill is [competence without comprehension](https://www.theatlantic.com/technology/archive/2012/06/-a-perfect-and-beautiful-machine-what-darwins-theory-of-evolution-reveals-about-artificial-intelligence/258829/),
