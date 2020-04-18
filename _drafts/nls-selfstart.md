@@ -47,7 +47,10 @@ call using `base::match.call()`.
 #### Gompertz Curve
 
 The Gompertz occasionally shows up in MMM analyses, where it sometimes goes by the name
-of "double exponential" curve. There are a variety of parameterizations of
+of "double exponential" curve. MMM modelers like this curve becuase it allows you to get
+both "breakthrough" and "saturation" points.
+
+There are a variety of parameterizations of
 this function (e.g., see [here](https://en.wikipedia.org/wiki/Gompertz_function)
 and [here](https://mathworld.wolfram.com/GompertzCurve.html)), with the parameterization I've
 typically seen used by media professionals being:
