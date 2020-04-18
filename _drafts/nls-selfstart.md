@@ -59,7 +59,7 @@ $$
 y = beta ^ ( alpha ^ x),
 $$
 
-where $y$ is the response to media intensity $x$.
+where $y$ is the response (e.g., revenue) to media intensity $x$ (e.g., spend).
 
 The [`nls::SSgompertz()`](https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/SSgompertz)
 self-starter estimates parameters for the following model:
@@ -91,4 +91,9 @@ df <- tibble(
   x = seq(5, 15, by = 0.2),
   y = dbl_exponential(x, 100, 0.63, 0.0001) + rnorm(length(x), sd = 5)
 )
+
+ggplot(df, aes(x, y)) +
+  geom_point()
 ```
+
+
