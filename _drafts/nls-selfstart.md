@@ -40,3 +40,28 @@ of this as R's being incredibly OCD.
 
 The first edition of Hadley Wickham's [Advanced R](http://adv-r.had.co.nz/Expressions.html#capturing-call) shows how R can capture the current
 call using `base::match.call()`.
+
+
+### Self-Starters for Advertising Media Data
+
+#### Parameterizations
+
+The Gompertz occasionally shows up in MMM analyses. There are a variety of parameterizations of
+this function (e.g., see [here](https://en.wikipedia.org/wiki/Gompertz_function)
+and [here](https://mathworld.wolfram.com/GompertzCurve.html)), with the parameterization I've
+typically seen used by media professionals being:
+
+$$
+y = beta ^ ( alpha ^ x),
+$$
+
+where $y$ is the response to media intensity $x$.
+
+The [`nls::SSgompertz`](https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/SSgompertz)
+self-starter estimates parameters for the following model:
+
+$$
+a*exp(-b\cot c^x).
+$$
+
+
