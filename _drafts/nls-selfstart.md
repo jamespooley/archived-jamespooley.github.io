@@ -57,11 +57,16 @@ $$
 
 where $y$ is the response to media intensity $x$.
 
-The [`nls::SSgompertz`](https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/SSgompertz)
+The [`nls::SSgompertz()`](https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/SSgompertz)
 self-starter estimates parameters for the following model:
 
 $$
 a*exp(-b\cot c^x).
 $$
 
+To convert between the estimates returned by `nls::SSgompertz()` and the parameterization
+familiar to your media colleagues, the following rules apply:
 
+* The asymptote $\alpha$ remains as is, and no further transformations are required
+* The value of $c$ can remain as-is
+* To get the value of $\beta$ familiar to your colleagues in media, exponentiate $-b$: $\exp(-\beta)$
