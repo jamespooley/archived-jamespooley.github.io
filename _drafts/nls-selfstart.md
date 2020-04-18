@@ -84,7 +84,7 @@ dbl_exponential <- function(x, alpha, beta, gamma) {
 }
 
 df <- tibble(
-  x = seq(0.5, 15, by = 0.2),
-  y = dbl_exponential(x, 100, 0.63, 0.0001) + rnorm(length(x), sd = 10)
+  x = seq(5, 15, by = 0.2),
+  y = dbl_exponential(x, 100, 0.63, 0.0001) + rnorm(length(x), sd = 5)
 )
 ```
