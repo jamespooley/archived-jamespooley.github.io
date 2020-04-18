@@ -96,4 +96,16 @@ ggplot(df, aes(x, y)) +
   geom_point()
 ```
 
+We can fit a Gompertz curve to these data using `nls`'s built-in self-starter and
+extract the parameter estimates as follows:
 
+```r
+params_dblexp <- nls(y ~ SSgompertz(x, alpha, beta, gamma), data = df) %>% 
+  summary() %>%
+  purrr::pluck("parameters") %>% 
+  as.data.frame() %>% 
+  rownames_to_column() %>% 
+  rename(parameter = rowname) %>% 
+  janitor::clean_names(case = "snake") %>% 
+  pluck("estimate")
+```
