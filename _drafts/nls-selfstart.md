@@ -44,9 +44,10 @@ call using `base::match.call()`.
 
 ### Self-Starters for Advertising Media Data
 
-#### Parameterizations
+#### Gompertz Curve
 
-The Gompertz occasionally shows up in MMM analyses. There are a variety of parameterizations of
+The Gompertz occasionally shows up in MMM analyses, where it sometimes goes by the name
+of "double exponential" curve. There are a variety of parameterizations of
 this function (e.g., see [here](https://en.wikipedia.org/wiki/Gompertz_function)
 and [here](https://mathworld.wolfram.com/GompertzCurve.html)), with the parameterization I've
 typically seen used by media professionals being:
