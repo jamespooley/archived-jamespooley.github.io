@@ -70,3 +70,21 @@ familiar to your media colleagues, the following rules apply:
 * The asymptote $\alpha$ remains as is, and no further transformations are required
 * The value of $c$ can remain as-is
 * To get the value of $\beta$ familiar to your colleagues in media, exponentiate $-b$: $\exp(-\beta)$
+
+#### Example
+
+Here's an (admittedly contrived) example. Let's generate some data where we know the
+ground truth.
+
+```r
+library(tidyverse)
+
+dbl_exponential <- function(x, alpha, beta, gamma) {
+  alphaa * (beta ^ alpha ^ x)
+}
+
+df <- tibble(
+  x = seq(0.5, 15, by = 0.2),
+  y = dbl_exponential(x, 100, 0.63, 0.0001) + rnorm(length(x), sd = 10)
+)
+```
