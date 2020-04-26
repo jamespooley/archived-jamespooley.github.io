@@ -20,7 +20,7 @@ My chief skill is [competence without comprehension](https://www.theatlantic.com
 but I constantly work on improving the latter without losing sight of the former.
 
 Away from the work, I stream [NTS Radio](https://www.nts.live) and read horror,
-science, fantasy, and weird fiction. In terms of sounds, glitch trumps dub,
+science, fantasy, and [weird](https://us.macmillan.com/books/9780765333629) fiction. In terms of sounds, glitch trumps dub,
 ambience trumps melody, humans talking trump humans singing, pitch-shifted voices trump
 _voce veritas_ voices, and  rhythm typically trumps everything for me. And field
 recordings: More of those, please.
