@@ -10,3 +10,8 @@
 #### How to Convince Me of Something
 
 #### How I Like to Receive Feedback
+
+{% highlight python %}
+def greet(name='World'):
+    print(f"Hello, {name}!")
+{% endhighlight %}
