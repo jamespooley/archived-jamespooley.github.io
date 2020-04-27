@@ -11,7 +11,7 @@
 
 #### How I Like to Receive Feedback
 
-{% highlight python %}
+{% highlight python linenos %}
 def greet(name='World'):
     print(f"Hello, {name}!")
 {% endhighlight %}
