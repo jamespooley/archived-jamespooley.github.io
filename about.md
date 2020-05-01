@@ -5,11 +5,11 @@
 <!-- </blockquote> -->
 
 Howdy, there! I'm <span class="text-warning">James Pooley</span>
-lead data scientist and manager at the digital marketing agency
-[360i](https://360i.com/capabilities/analytics/)
-in NYC. I work on a variety of data problems, projects, and products
-with a strong econometric and operations research flavor and a bias towards
-facilitating  business decision making.
+lead data scientist and manager at the NYC office of
+[360i](https://360i.com/capabilities/analytics/).
+I work with some great colleagues on a variety of data problems,
+projects, and products with a strong econometric and operations research flavor and a bias towards
+facilitating business decision making.
 
 I like person-level data, latent variables,
 [Box's loop](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf),
