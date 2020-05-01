@@ -26,13 +26,13 @@ _voce veritas_ voices, and  rhythm typically trumps everything for me. And field
 recordings: More of those, please.
 
 I enthusiastically and with zero regrets spent a decent amount of money
-to see [Aphex Twin's 2019 NYC show](https://www.artforum.com/music/sasha-frere-jones-on-aphex-twin-s-show-at-avant-gardener-79488) (the opening featuring [Tha2 \[world scam mix\]](https://soundcloud.com/user18081971/tha2-world-scam-mix)] alone was worth the cost of admission), (was in a crowd
+to see [Aphex Twin's 2019 NYC show](https://www.artforum.com/music/sasha-frere-jones-on-aphex-twin-s-show-at-avant-gardener-79488) (the opening featuring ["Tha2 \[world scam mix\]"](https://soundcloud.com/user18081971/tha2-world-scam-mix)] alone was worth the cost of admission), (was in a crowd
 that) got yelled at by Mark Leckey while sitting under
 under the [Bridge@Eastham Rake](https://www.youtube.com/watch?v=ZZ-BhuuCIUE)
 for failing to bring a level of noise sufficient to perform
-an exorcism, survived [Sunn O)))](https://www.youtube.com/watch?v=jyT4kJwn8G8)
-at Knockdown Center, basked in the brilliant light and oceans of sound produced by Sunn O)))
-at [Brooklyn Steel](https://www.youtube.com/watch?v=uCl1_fQy5Z8), and can be seen dancing
+an exorcism, survived [Sunn O))) at Knockdown Center](https://www.youtube.com/watch?v=jyT4kJwn8G8),
+basked in the brilliant light and oceans of sound produced by [Sunn O)))
+at Brooklyn Steel](https://www.youtube.com/watch?v=uCl1_fQy5Z8), and can be seen dancing
 (poorly) in close proximity to Four Tet in
 [this](https://www.youtube.com/watch?v=yWstd3jDZIs) video.
 
