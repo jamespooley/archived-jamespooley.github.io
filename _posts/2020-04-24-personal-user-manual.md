@@ -1,5 +1,7 @@
 #### Honest and Unfiltered Things about Me
 
+#### How I Can Be Misunderstood
+
 #### What Drives Me Crazy (at Work)
 
 >When the only definition of "done" is "the customer said they were satisfied with the analysis," you know the scope of your project is going to forever creep until the customer decides to pay attention to something else.
