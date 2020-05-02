@@ -11,9 +11,19 @@ I work with some great colleagues on a variety of data problems,
 projects, and products with a strong econometric and operations research flavor and a bias towards
 facilitating business decision making.
 
-I like person-level data, latent variables,
-[Box's loop](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf),
-stochastic processes and applied probability, psychometrics, Python, R, [functional programming](https://www.youtube.com/watch?v=bzUmK0Y07ck), the Unix philosophy, and Vim.
+As a data professional I like:
+* Person-level data
+* Latent variables
+* [Box's loop](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf
+)
+* Stochastic processes and applied probability
+* Psychometrics
+* Python
+* R and the tidyverse
+* [Functional programming](https://www.youtube.com/watch?v=bzUmK0Y07ck)
+* The Unix philosophy
+* Vim
+
 I'm also worried about the implications of person-level data and surveillance
 capitalism, and know much less about every topic that interests me than I wish I knew.
 My chief skill is [competence without comprehension](https://www.theatlantic.com/technology/archive/2012/06/-a-perfect-and-beautiful-machine-what-darwins-theory-of-evolution-reveals-about-artificial-intelligence/258829/),
