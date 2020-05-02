@@ -22,7 +22,7 @@ As a data professional I like:
 * R and the tidyverse
 * [Functional programming](https://www.youtube.com/watch?v=bzUmK0Y07ck)
 * The Unix philosophy
-* Vim
+* [Vim](https://learnvimscriptthehardway.stevelosh.com/)
 
 I'm also worried about the implications of person-level data and surveillance
 capitalism, and know much less about every topic that interests me than I wish I knew.
