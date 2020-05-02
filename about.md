@@ -16,7 +16,7 @@ As a data professional I like:
 * Latent variables
 * [Box's loop](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf
 )
-* Stochastic processes and applied probability
+* Stochastic (especially Poisson) processes and applied probability
 * Psychometrics
 * Python
 * R and the tidyverse
